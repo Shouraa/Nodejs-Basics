@@ -1,0 +1,3 @@
+exports.displayDateTime = () => {
+  return Date();
+};
